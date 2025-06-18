@@ -1,0 +1,9 @@
+<meta charset="utf-8"><!DOCTYPE html><html lang="pt-br">
+<head><title>🔍BUSCA NESSA PÁGINA</title>
+<link rel="sortcut icon" href="https://cdn-icons-png.flaticon.com/512/1329/1329920.png" type="image/gif" />
+<link href="JS.js" rel="stylesheet">
+<link rel="stylesheet" href="CSS.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="BUSCA NESSA PÁGINA">
+<meta name="keywords" content="BUSCA NESSA PÁGINA, NESSA PÁGINA, BUSCA">
